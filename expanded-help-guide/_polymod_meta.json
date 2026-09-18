@@ -1,0 +1,12 @@
+{
+  "title": "Expanded Help Guide Specific",
+  "description": "Somebody's now around to help!\n\nDocuments the chart editor only.",
+  "api_version": "0.8.1",
+  "mod_version": "1.0.4",
+  "contributors": [
+    {"name": "MAZ12211", "role": "Did everything"},
+    {"name": "Friday Night Moddin's charting-problems channel in Discord", "role": "Feedback", "url": "https://discord.gg/wkgWxmpcCU"},
+    {"name": "Etterna's discord server", "role": "Feedback", "url": "https://discord.gg/8mxFYdxHUN"}
+  ],
+  "license": "MIT"
+}
